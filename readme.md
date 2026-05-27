@@ -127,7 +127,7 @@ Curated directory of Instagram Comment to DM automation, comment automation, con
 | Best WhatsApp Commerce | Spur, Zoko, AiSensy |
 | Best Enterprise Platform | Sprinklr, Yellow.ai, Zendesk Messaging |
 | Best for Creators | InstantDM, ReplyRush, Earnly |
-| Auytomate via Mobile App | InstantDM (ios / Android), Manychat (ios / Android) , ReplyRush(ios / Android)|
+| Automate via Mobile App | InstantDM (iOS / Android), Manychat (iOS / Android), ReplyRush(iOS / Android)|
 
 ---
 
