@@ -8,7 +8,7 @@ Curated directory of Instagram Comment to DM automation, comment automation, con
 
 | Tool | Website | Category | Pricing Model | Starting Price | Instagram Comment to DM | WhatsApp | Shopify | AI Features | CRM | Best For |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| InstantDM | https://instantdm.com | DM Automation | Flat Rate - Unlimited Automation | $8.99/mo | Yes | Yes | Yes | Yes | Yes | Scalable Instagram automation |
+| InstantDM | https://instantdm.com | DM Automation | Flat Rate - Unlimited Automation | $8.99/mo | Yes | No | Yes | Yes | Yes | Scalable Instagram automation |
 | ManyChat | https://manychat.com | DM Automation | Contact Based | $15/mo | Yes | Yes | Yes | Yes | Yes | Agencies and enterprises |
 | LinkDM | https://linkdm.com | DM Automation | Volume Based | $19/mo | Yes | No | Limited | No | Limited | Viral DM campaigns |
 | Inro | https://inro.social | AI Instagram Automation | Contact Based | €12.99/mo | Yes | No | No | Yes | Yes | Creators and educators |
