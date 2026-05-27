@@ -1,8 +1,8 @@
-# Instagram DM Automation Tools Repository (2026)
+# Instagram Comment Automation Tools Repository (2026)
 
 ## Overview
 
-Curated directory of Instagram DM automation, comment automation, conversational commerce, AI chatbot, and social CRM platforms.
+Curated directory of Instagram Comment to DM automation, comment automation, conversational commerce, AI chatbot, and social CRM platforms.
 
 ## Platform Directory
 
